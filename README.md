@@ -1,2 +1,2 @@
-# solving-merging-problems
+# first-branch
 Testing solving merging problems
